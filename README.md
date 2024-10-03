@@ -12,6 +12,11 @@ The world is at the cusp of a green revolution. As urban sectors expand and clou
 
 ---
 
+## 🎯 Objective  
+Our goal is simple but powerful: **Empower users to identify, reduce, and repurpose waste** using cutting-edge technology. By turning waste into a resource, we help pave the way for a sustainable future.
+
+---
+
 ## 🚀 Recycle Radar: Transforming Waste into Opportunity, One Scan at a Time
 
 **Recycle Radar**, developed by the Green Warriors team, is designed to revolutionize waste management by making recycling intuitive, educational, and rewarding. With this app, users can easily identify, upcycle, and repurpose waste materials, fostering a lifestyle of sustainability.  
@@ -43,11 +48,6 @@ The world is at the cusp of a green revolution. As urban sectors expand and clou
 Green Warriors integrates **green cloud** technology to ensure sustainability at the infrastructure level. Our scalable cloud solutions:
 - **Optimize** cloud infrastructure to minimize environmental impact.
 - **Enhance** urban sectors by driving innovation in smart cities, making them more livable, sustainable, and accessible.
-
----
-
-## 🎯 Objective  
-Our goal is simple but powerful: **Empower users to identify, reduce, and repurpose waste** using cutting-edge technology. By turning waste into a resource, we help pave the way for a sustainable future.
 
 ---
 
