@@ -4,7 +4,6 @@
 //
 //  Created by Suryasen on 15/01/24.
 //
-
 import XCTest
 
 final class UpCyclizationUITestsLaunchTests: XCTestCase {
