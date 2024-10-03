@@ -1,8 +1,4 @@
-//
-//  ScanScreen.swift
-//  UpCyclization
-//
-//MAIN FILE
+
 
 
 import SwiftUI
