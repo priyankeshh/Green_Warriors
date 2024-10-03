@@ -2,7 +2,6 @@
 //  ObjectDetectionModel.swift
 //  UpCyclization
 //
-//  Created by Suryasen on 30/01/24.
 //
 
 import SwiftUI
