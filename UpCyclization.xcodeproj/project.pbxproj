@@ -15,7 +15,6 @@
 		95C5D94B2B552662001348BE /* UpCyclizationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D94A2B552662001348BE /* UpCyclizationUITests.swift */; };
 		95C5D94D2B552662001348BE /* UpCyclizationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D94C2B552662001348BE /* UpCyclizationUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		95C5D93D2B552662001348BE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
