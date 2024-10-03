@@ -2,7 +2,6 @@
 //  AddProductListing.swift
 //  UpCyclization
 //
-//  Created by Suryasen on 03/03/24.
 //
 
 import SwiftUI
