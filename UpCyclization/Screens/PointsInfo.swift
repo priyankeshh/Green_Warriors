@@ -1,9 +1,4 @@
-//
-//  PointsInfo.swift
-//  UpCyclization
-//
-//  Created by Suryasen on 27/02/24.
-//
+
 
 import SwiftUI
 
