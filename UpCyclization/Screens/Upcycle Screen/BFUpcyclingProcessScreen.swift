@@ -1,8 +1,4 @@
-//
-//  UpcyclingProcessScreen.swift
-//  UpCyclization
-//
-//
+
 
 import SwiftUI
 import WebKit
