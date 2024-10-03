@@ -2,7 +2,6 @@
 //  UpCyclizationTests.swift
 //  UpCyclizationTests
 //
-//  Created by Suryasen on 15/01/24.
 //
 
 import XCTest
