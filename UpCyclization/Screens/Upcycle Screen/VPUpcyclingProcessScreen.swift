@@ -1,8 +1,4 @@
-//
-//  VPUpcyclingProcessScreen.swift
-//  UpCyclization
-//
-//
+
 
 
 
