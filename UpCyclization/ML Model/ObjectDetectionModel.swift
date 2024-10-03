@@ -1,8 +1,3 @@
-//
-//  ObjectDetectionModel.swift
-//  UpCyclization
-//
-//
 
 import SwiftUI
 import CoreML
