@@ -21,6 +21,12 @@ Our goal is simple but powerful: **Empower users to identify, reduce, and repurp
 
 **Recycle Radar**, developed by the Green Warriors team, is designed to revolutionize waste management by making recycling intuitive, educational, and rewarding. With this app, users can easily identify, upcycle, and repurpose waste materials, fostering a lifestyle of sustainability.  
 
+## 📱 Application Demo:
+
+https://github.com/user-attachments/assets/e1c5147d-0319-421b-9363-e9a0954e7257
+
+--- 
+
 ### 🌿 Empowering Change Through Knowledge, Action, and Advocacy:
 1. **Consumer Empowerment:**
    - Provides users with information on various waste materials and offers creative upcycling ideas.
@@ -36,6 +42,14 @@ Our goal is simple but powerful: **Empower users to identify, reduce, and repurp
 
 ---
 
+## 💻 Tech Stack
+- **Language/Framework**: Swift, SwiftUI, Core ML
+- **Tools**: Xcode, Create ML
+- **Database**: Firebase
+- **Cloud**: Google Cloud, AWS for green cloud integration
+
+--- 
+
 ## 📱 Applications
 **Recycle Radar** is designed to be a powerful tool for:
 1. **Consumers**: Helping individuals make informed choices and adopt a sustainable lifestyle.
@@ -50,13 +64,5 @@ Green Warriors integrates **green cloud** technology to ensure sustainability at
 - **Enhance** urban sectors by driving innovation in smart cities, making them more livable, sustainable, and accessible.
 
 ---
-
-## 💻 Tech Stack
-- **Language/Framework**: Swift, SwiftUI, Core ML
-- **Tools**: Xcode, Create ML
-- **Database**: Firebase
-- **Cloud**: Google Cloud, AWS for green cloud integration
-
---- 
 
 Join us in **Transforming Waste into Opportunity, One Scan at a Time**!
