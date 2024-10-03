@@ -1,8 +1,4 @@
-//
-//  ContentView.swift
-//  UpCyclization
-//
-//
+
 
 import SwiftUI
 
