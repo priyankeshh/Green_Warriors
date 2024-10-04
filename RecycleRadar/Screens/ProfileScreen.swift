@@ -27,7 +27,7 @@ struct ProfileScreen: View {
                         
                             
 
-                    Text("Hii Lara!")
+                    Text("Hi Khusbu!")
                         .bold()
                         .font(.system(size: 25))
 
