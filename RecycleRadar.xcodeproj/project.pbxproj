@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		95C5D9302B55265F001348BE /* UpCyclizationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D92F2B55265F001348BE /* UpCyclizationApp.swift */; };
+		95C5D9302B55265F001348BE /* RecycleRadarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D92F2B55265F001348BE /* RecycleRadarApp.swift */; };
 		95C5D9322B55265F001348BE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D9312B55265F001348BE /* ContentView.swift */; };
 		95C5D9342B552662001348BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95C5D9332B552662001348BE /* Assets.xcassets */; };
 		95C5D9372B552662001348BE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95C5D9362B552662001348BE /* Preview Assets.xcassets */; };
-		95C5D9412B552662001348BE /* UpCyclizationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D9402B552662001348BE /* UpCyclizationTests.swift */; };
-		95C5D94B2B552662001348BE /* UpCyclizationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D94A2B552662001348BE /* UpCyclizationUITests.swift */; };
-		95C5D94D2B552662001348BE /* UpCyclizationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D94C2B552662001348BE /* UpCyclizationUITestsLaunchTests.swift */; };
+		95C5D9412B552662001348BE /* RecycleRadarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D9402B552662001348BE /* RecycleRadarTests.swift */; };
+		95C5D94B2B552662001348BE /* RecycleRadarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D94A2B552662001348BE /* RecycleRadarUITests.swift */; };
+		95C5D94D2B552662001348BE /* RecycleRadarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5D94C2B552662001348BE /* RecycleRadarUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 /* Begin PBXContainerItemProxy section */
 		95C5D93D2B552662001348BE /* PBXContainerItemProxy */ = {
@@ -21,28 +21,28 @@
 			containerPortal = 95C5D9242B55265F001348BE /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 95C5D92B2B55265F001348BE;
-			remoteInfo = UpCyclization;
+			remoteInfo = RecycleRadar;
 		};
 		95C5D9472B552662001348BE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 95C5D9242B55265F001348BE /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 95C5D92B2B55265F001348BE;
-			remoteInfo = UpCyclization;
+			remoteInfo = RecycleRadar;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		95C5D92C2B55265F001348BE /* UpCyclization.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UpCyclization.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		95C5D92F2B55265F001348BE /* UpCyclizationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpCyclizationApp.swift; sourceTree = "<group>"; };
+		95C5D92C2B55265F001348BE /* RecycleRadar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecycleRadar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		95C5D92F2B55265F001348BE /* RecycleRadarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecycleRadarApp.swift; sourceTree = "<group>"; };
 		95C5D9312B55265F001348BE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		95C5D9332B552662001348BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95C5D9362B552662001348BE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		95C5D93C2B552662001348BE /* UpCyclizationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UpCyclizationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		95C5D9402B552662001348BE /* UpCyclizationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpCyclizationTests.swift; sourceTree = "<group>"; };
-		95C5D9462B552662001348BE /* UpCyclizationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UpCyclizationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		95C5D94A2B552662001348BE /* UpCyclizationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpCyclizationUITests.swift; sourceTree = "<group>"; };
-		95C5D94C2B552662001348BE /* UpCyclizationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpCyclizationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		95C5D93C2B552662001348BE /* RecycleRadarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RecycleRadarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		95C5D9402B552662001348BE /* RecycleRadarTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecycleRadarTests.swift; sourceTree = "<group>"; };
+		95C5D9462B552662001348BE /* RecycleRadarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RecycleRadarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		95C5D94A2B552662001348BE /* RecycleRadarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecycleRadarUITests.swift; sourceTree = "<group>"; };
+		95C5D94C2B552662001348BE /* RecycleRadarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecycleRadarUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,9 +73,9 @@
 		95C5D9232B55265F001348BE = {
 			isa = PBXGroup;
 			children = (
-				95C5D92E2B55265F001348BE /* UpCyclization */,
-				95C5D93F2B552662001348BE /* UpCyclizationTests */,
-				95C5D9492B552662001348BE /* UpCyclizationUITests */,
+				95C5D92E2B55265F001348BE /* RecycleRadar */,
+				95C5D93F2B552662001348BE /* RecycleRadarTests */,
+				95C5D9492B552662001348BE /* RecycleRadarUITests */,
 				95C5D92D2B55265F001348BE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -83,22 +83,22 @@
 		95C5D92D2B55265F001348BE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				95C5D92C2B55265F001348BE /* UpCyclization.app */,
-				95C5D93C2B552662001348BE /* UpCyclizationTests.xctest */,
-				95C5D9462B552662001348BE /* UpCyclizationUITests.xctest */,
+				95C5D92C2B55265F001348BE /* RecycleRadar.app */,
+				95C5D93C2B552662001348BE /* RecycleRadarTests.xctest */,
+				95C5D9462B552662001348BE /* RecycleRadarUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		95C5D92E2B55265F001348BE /* UpCyclization */ = {
+		95C5D92E2B55265F001348BE /* RecycleRadar */ = {
 			isa = PBXGroup;
 			children = (
-				95C5D92F2B55265F001348BE /* UpCyclizationApp.swift */,
+				95C5D92F2B55265F001348BE /* RecycleRadarApp.swift */,
 				95C5D9312B55265F001348BE /* ContentView.swift */,
 				95C5D9332B552662001348BE /* Assets.xcassets */,
 				95C5D9352B552662001348BE /* Preview Content */,
 			);
-			path = UpCyclization;
+			path = RecycleRadar;
 			sourceTree = "<group>";
 		};
 		95C5D9352B552662001348BE /* Preview Content */ = {
@@ -109,29 +109,29 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		95C5D93F2B552662001348BE /* UpCyclizationTests */ = {
+		95C5D93F2B552662001348BE /* RecycleRadarTests */ = {
 			isa = PBXGroup;
 			children = (
-				95C5D9402B552662001348BE /* UpCyclizationTests.swift */,
+				95C5D9402B552662001348BE /* RecycleRadarTests.swift */,
 			);
-			path = UpCyclizationTests;
+			path = RecycleRadarTests;
 			sourceTree = "<group>";
 		};
-		95C5D9492B552662001348BE /* UpCyclizationUITests */ = {
+		95C5D9492B552662001348BE /* RecycleRadarUITests */ = {
 			isa = PBXGroup;
 			children = (
-				95C5D94A2B552662001348BE /* UpCyclizationUITests.swift */,
-				95C5D94C2B552662001348BE /* UpCyclizationUITestsLaunchTests.swift */,
+				95C5D94A2B552662001348BE /* RecycleRadarUITests.swift */,
+				95C5D94C2B552662001348BE /* RecycleRadarUITestsLaunchTests.swift */,
 			);
-			path = UpCyclizationUITests;
+			path = RecycleRadarUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		95C5D92B2B55265F001348BE /* UpCyclization */ = {
+		95C5D92B2B55265F001348BE /* RecycleRadar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 95C5D9502B552662001348BE /* Build configuration list for PBXNativeTarget "UpCyclization" */;
+			buildConfigurationList = 95C5D9502B552662001348BE /* Build configuration list for PBXNativeTarget "RecycleRadar" */;
 			buildPhases = (
 				95C5D9282B55265F001348BE /* Sources */,
 				95C5D9292B55265F001348BE /* Frameworks */,
@@ -141,14 +141,14 @@
 			);
 			dependencies = (
 			);
-			name = UpCyclization;
-			productName = UpCyclization;
-			productReference = 95C5D92C2B55265F001348BE /* UpCyclization.app */;
+			name = RecycleRadar;
+			productName = RecycleRadar;
+			productReference = 95C5D92C2B55265F001348BE /* RecycleRadar.app */;
 			productType = "com.apple.product-type.application";
 		};
-		95C5D93B2B552662001348BE /* UpCyclizationTests */ = {
+		95C5D93B2B552662001348BE /* RecycleRadarTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 95C5D9532B552662001348BE /* Build configuration list for PBXNativeTarget "UpCyclizationTests" */;
+			buildConfigurationList = 95C5D9532B552662001348BE /* Build configuration list for PBXNativeTarget "RecycleRadarTests" */;
 			buildPhases = (
 				95C5D9382B552662001348BE /* Sources */,
 				95C5D9392B552662001348BE /* Frameworks */,
@@ -159,14 +159,14 @@
 			dependencies = (
 				95C5D93E2B552662001348BE /* PBXTargetDependency */,
 			);
-			name = UpCyclizationTests;
-			productName = UpCyclizationTests;
-			productReference = 95C5D93C2B552662001348BE /* UpCyclizationTests.xctest */;
+			name = RecycleRadarTests;
+			productName = RecycleRadarTests;
+			productReference = 95C5D93C2B552662001348BE /* RecycleRadarTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		95C5D9452B552662001348BE /* UpCyclizationUITests */ = {
+		95C5D9452B552662001348BE /* RecycleRadarUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 95C5D9562B552662001348BE /* Build configuration list for PBXNativeTarget "UpCyclizationUITests" */;
+			buildConfigurationList = 95C5D9562B552662001348BE /* Build configuration list for PBXNativeTarget "RecycleRadarUITests" */;
 			buildPhases = (
 				95C5D9422B552662001348BE /* Sources */,
 				95C5D9432B552662001348BE /* Frameworks */,
@@ -177,9 +177,9 @@
 			dependencies = (
 				95C5D9482B552662001348BE /* PBXTargetDependency */,
 			);
-			name = UpCyclizationUITests;
-			productName = UpCyclizationUITests;
-			productReference = 95C5D9462B552662001348BE /* UpCyclizationUITests.xctest */;
+			name = RecycleRadarUITests;
+			productName = RecycleRadarUITests;
+			productReference = 95C5D9462B552662001348BE /* RecycleRadarUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -205,7 +205,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 95C5D9272B55265F001348BE /* Build configuration list for PBXProject "UpCyclization" */;
+			buildConfigurationList = 95C5D9272B55265F001348BE /* Build configuration list for PBXProject "RecycleRadar" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -218,9 +218,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				95C5D92B2B55265F001348BE /* UpCyclization */,
-				95C5D93B2B552662001348BE /* UpCyclizationTests */,
-				95C5D9452B552662001348BE /* UpCyclizationUITests */,
+				95C5D92B2B55265F001348BE /* RecycleRadar */,
+				95C5D93B2B552662001348BE /* RecycleRadarTests */,
+				95C5D9452B552662001348BE /* RecycleRadarUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -257,7 +257,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95C5D9322B55265F001348BE /* ContentView.swift in Sources */,
-				95C5D9302B55265F001348BE /* UpCyclizationApp.swift in Sources */,
+				95C5D9302B55265F001348BE /* RecycleRadarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				95C5D9412B552662001348BE /* UpCyclizationTests.swift in Sources */,
+				95C5D9412B552662001348BE /* RecycleRadarTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,8 +273,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				95C5D94B2B552662001348BE /* UpCyclizationUITests.swift in Sources */,
-				95C5D94D2B552662001348BE /* UpCyclizationUITestsLaunchTests.swift in Sources */,
+				95C5D94B2B552662001348BE /* RecycleRadarUITests.swift in Sources */,
+				95C5D94D2B552662001348BE /* RecycleRadarUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,12 +283,12 @@
 /* Begin PBXTargetDependency section */
 		95C5D93E2B552662001348BE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 95C5D92B2B55265F001348BE /* UpCyclization */;
+			target = 95C5D92B2B55265F001348BE /* RecycleRadar */;
 			targetProxy = 95C5D93D2B552662001348BE /* PBXContainerItemProxy */;
 		};
 		95C5D9482B552662001348BE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 95C5D92B2B55265F001348BE /* UpCyclization */;
+			target = 95C5D92B2B55265F001348BE /* RecycleRadar */;
 			targetProxy = 95C5D9472B552662001348BE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -420,7 +420,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"UpCyclization/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"RecycleRadar/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -433,7 +433,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.UpCyclization;
+				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.RecycleRadar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -448,7 +448,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"UpCyclization/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"RecycleRadar/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -461,7 +461,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.UpCyclization;
+				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.RecycleRadar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -479,12 +479,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.UpCyclizationTests;
+				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.RecycleRadarTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UpCyclization.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UpCyclization";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RecycleRadar.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RecycleRadar";
 			};
 			name = Debug;
 		};
@@ -498,12 +498,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.UpCyclizationTests;
+				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.RecycleRadarTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UpCyclization.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UpCyclization";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RecycleRadar.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RecycleRadar";
 			};
 			name = Release;
 		};
@@ -515,12 +515,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.UpCyclizationUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.RecycleRadarUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = UpCyclization;
+				TEST_TARGET_NAME = RecycleRadar;
 			};
 			name = Debug;
 		};
@@ -532,19 +532,19 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.UpCyclizationUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = iosappdevelopent.RecycleRadarUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = UpCyclization;
+				TEST_TARGET_NAME = RecycleRadar;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		95C5D9272B55265F001348BE /* Build configuration list for PBXProject "UpCyclization" */ = {
+		95C5D9272B55265F001348BE /* Build configuration list for PBXProject "RecycleRadar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				95C5D94E2B552662001348BE /* Debug */,
@@ -553,7 +553,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		95C5D9502B552662001348BE /* Build configuration list for PBXNativeTarget "UpCyclization" */ = {
+		95C5D9502B552662001348BE /* Build configuration list for PBXNativeTarget "RecycleRadar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				95C5D9512B552662001348BE /* Debug */,
@@ -562,7 +562,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		95C5D9532B552662001348BE /* Build configuration list for PBXNativeTarget "UpCyclizationTests" */ = {
+		95C5D9532B552662001348BE /* Build configuration list for PBXNativeTarget "RecycleRadarTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				95C5D9542B552662001348BE /* Debug */,
@@ -571,7 +571,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		95C5D9562B552662001348BE /* Build configuration list for PBXNativeTarget "UpCyclizationUITests" */ = {
+		95C5D9562B552662001348BE /* Build configuration list for PBXNativeTarget "RecycleRadarUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				95C5D9572B552662001348BE /* Debug */,

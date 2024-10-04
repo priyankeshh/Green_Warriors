@@ -1,13 +1,13 @@
 //
-//  UpCyclizationUITests.swift
-//  UpCyclizationUITests
+//  RecycleRadarUITests.swift
+//  RecycleRadarUITests
 //
 //  Created by Suryasen on 15/01/24.
 //
 
 import XCTest
 
-final class UpCyclizationUITests: XCTestCase {
+final class RecycleRadarUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

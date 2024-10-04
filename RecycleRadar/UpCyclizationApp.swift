@@ -3,7 +3,7 @@
 import SwiftUI
 
 @main
-struct UpCyclizationApp: App {
+struct RecycleRadarApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
