@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/e1c5147d-0319-421b-9363-e9a0954e7257
 - **Language/Framework**: Swift, SwiftUI, Core ML
 - **Tools**: Xcode, Create ML
 - **Database**: Firebase
-- **Cloud**: Google Cloud, AWS for green cloud integration
+- **Cloud**: Firebase, Google Cloud for green cloud integration
 
 --- 
 
