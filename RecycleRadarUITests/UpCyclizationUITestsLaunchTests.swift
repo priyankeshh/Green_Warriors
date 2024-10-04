@@ -1,12 +1,12 @@
 //
-//  UpCyclizationUITestsLaunchTests.swift
-//  UpCyclizationUITests
+//  RecycleRadarUITestsLaunchTests.swift
+//  RecycleRadarUITests
 //
 //  Created by Suryasen on 15/01/24.
 //
 import XCTest
 
-final class UpCyclizationUITestsLaunchTests: XCTestCase {
+final class RecycleRadarUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

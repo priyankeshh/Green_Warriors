@@ -1,17 +1,17 @@
 //
-//  BFUpcyclingProcessScreen.swift
-//  UpCyclization
+//  AddProductListing.swift
+//  RecycleRadar
 //
 //
 
 import SwiftUI
 
-struct BFUpcyclingProcessScreen: View {
+struct AddProductListing: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    BFUpcyclingProcessScreen()
+    AddProductListing()
 }
